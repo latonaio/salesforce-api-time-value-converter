@@ -1,4 +1,4 @@
-module github.com/latonaio/salesforce_api_time_value_converter
+module github.com/latonaio/salesforce-api-time-value-converter
 
 go 1.19
 
